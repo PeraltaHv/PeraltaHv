@@ -19,6 +19,7 @@
 
 ## ¡Conéctate conmigo y descubramos juntos cómo podemos aprovechar nuestras habilidades para hacer una verdadera diferencia en el mundo digital!
 [Perfil de Linkedin](https://www.linkedin.com/in/victor-peralta-905302275/)
+### Correo: peralta29v@gmail.com
 
 
 
