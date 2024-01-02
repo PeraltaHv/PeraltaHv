@@ -1,58 +1,49 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            text-align: center;
-            padding: 20px;
-        }
 
-        h1 {
-            color: #333;
-        }
+# Tecnologías que Domino
 
-        ul {
-            list-style: none;
-            padding: 0;
-            display: flex;
-            justify-content: center;
-        }
+## Lista de Tecnologías
 
-        li {
-            margin: 10px;
-            padding: 10px;
-            background-color: #61dafb;
-            color: #fff;
-            border-radius: 5px;
-            font-weight: bold;
-            cursor: pointer;
-            transition: background-color 0.3s;
-        }
+- **React**
+- **HTML**
+- **JavaScript**
+- **CSS**
+- **Tailwind CSS**
+- **Express**
+- **Node.js**
+- **Sequelize**
 
-        li:hover {
-            background-color: #218fff;
-        }
-    </style>
-    <title>Mis Tecnologías</title>
-</head>
-<body>
+## Estilo en línea
 
-    <h1>Tecnologías que domino</h1>
+```html
+<style>
+  body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      text-align: center;
+      padding: 20px;
+  }
 
-    <ul>
-        <li>React</li>
-        <li>HTML</li>
-        <li>JavaScript</li>
-        <li>CSS</li>
-        <li>Tailwind CSS</li>
-        <li>Express</li>
-        <li>Node.js</li>
-        <li>Sequelize</li>
-    </ul>
+  h1 {
+      color: #333;
+  }
 
-</body>
-</html>
+  ul {
+      list-style: none;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+  }
+
+  li {
+      margin: 10px;
+      padding: 10px;
+      background-color: #61dafb;
+      color: #fff;
+      border-radius: 5px;
+      font-weight: bold;
+  }
+
+  li:hover {
+      background-color: #218fff;
+  }
+</style>
